@@ -1,0 +1,43 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h2{
+    font-size: 50px;
+}
+section{
+    height: 300px;}
+    .name-highlight{
+        color: orange;
+    }
+    .half-width{
+        width: 40%;
+        float: left;
+        margin-left: 5%;
+        padding-left: 2%;
+    }
+    .half-width img{
+        width: 50%;
+    }
+    .top-banner{
+        
+        background-image: url("imgs/personal-website/header-bg.png");
+    }
+
+}
+.link-button{
+    text-decoration: none;
+    background-color: #f39c12;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+
+}
+.work-img{
+    height:30%;
+    width: 30%;
+    margin-left: 5%;
+
+}
+.work{
+     width: 100%;
+}
