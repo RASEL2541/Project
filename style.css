@@ -6,38 +6,42 @@ h2{
 }
 section{
     height: 300px;}
-    .name-highlight{
+
+.name-highlight{
         color: orange;
     }
-    .half-width{
+.half-width{
         width: 40%;
         float: left;
         margin-left: 5%;
         padding-left: 2%;
-    }
-    .half-width img{
+}
+.half-width img{
         width: 50%;
-    }
-    .top-banner{
+}
+.top-banner{
         
         background-image: url("imgs/personal-website/header-bg.png");
-    }
-
 }
-.link-button{
-    text-decoration: none;
-    background-color: #f39c12;
-    padding: 10px 20px;
-    border-radius: 5px;
-    color: white;
 
-}
-.work-img{
-    height:30%;
-    width: 30%;
-    margin-left: 5%;
 
+.work-img img {
+    width: 28%;
+    margin-left: 4%;
+    float: left;
 }
 .work{
      width: 100%;
+}
+
+a.link-button{
+    text-decoration: none;
+    color: #fff;
+    background: red;
+    padding: 10px 20px;
+    border-radius: 10px;
+    margin: 20px 0;
+}
+.center{
+    text-align: center;
 }
